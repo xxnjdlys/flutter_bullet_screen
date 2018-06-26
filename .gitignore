@@ -1,0 +1,16 @@
+.DS_Store
+.dart_tool/
+
+.idea/
+.vscode/
+.settings/
+.metadata
+*.iml
+*.lock
+
+.packages
+.pub/
+
+build/
+
+.flutter-plugins
