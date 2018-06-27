@@ -1,6 +1,6 @@
 # flutter_bullet_screen
 
-A new Flutter application.
+### not finish yet
 
 ## Getting Started
 
